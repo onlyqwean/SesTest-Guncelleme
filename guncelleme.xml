@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.1.0</version>
-    <url>https://github.com/onlyqwean/SesTest-Guncelleme/releases/download/v1.0.1.0/SesTest_Guncel.zip</url>
+  <version>1.0.1.0</version>
+  <url>https://github.com/onlyqwean/SesTest-Guncelleme/releases/download/v1.0.1.0/SesTest_Guncel.zip</url>
+  <changelog></changelog>
+  <mandatory>false</mandatory>
 </item>
